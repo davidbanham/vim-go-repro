@@ -1,0 +1,14 @@
+NVIM 0.0.0-alpha+201507232235 (compiled Jul 26 2015 21:34:50)
+Commit: 7a6bf3f418c5ad94ac2ac71f21275a87d08e87b9
+Build type: Release
+Compilation: /opt/boxen/homebrew/Library/ENV/4.3/clang -Wconversion  -Wall -Wextra -pedantic -Wno-unused-parameter -Wstrict-prototypes -std=gnu99 -DINCLUDE_GENERATED_DECLARATIONS -DHAVE_CONFIG_H -I/tmp/neovim20150726-21298-144oty3/build/config -I/tmp/neovim20150726-21298-144oty3/src -I/tmp/neovim20150726-21298-144oty3/deps-build/usr/include -I/tmp/neovim20150726-21298-144oty3/deps-build/usr/include -I/tmp/neovim20150726-21298-144oty3/deps-build/usr/include/luajit-2.0 -I/tmp/neovim20150726-21298-144oty3/deps-build/usr/include -I/tmp/neovim20150726-21298-144oty3/deps-build/usr/include -I/tmp/neovim20150726-21298-144oty3/deps-build/usr/include -I/tmp/neovim20150726-21298-144oty3/deps-build/usr/include -I/opt/boxen/homebrew/opt/gettext/include -I/usr/include -I/tmp/neovim20150726-21298-144oty3/build/src/nvim/auto -I/tmp/neovim20150726-21298-144oty3/build/include
+Compiled by davidbanham@corduroy.local
+
+Optional features included (+) or not (-): +acl   +iconv    +jemalloc
+For differences from Vim, see :help vim-differences
+
+   system vimrc file: "$VIM/nvimrc"
+     user vimrc file: "~/.nvimrc"
+ 2nd user vimrc file: "~/.nvim/nvimrc"
+      user exrc file: "~/.exrc"
+  fall-back for $VIM: "/opt/boxen/homebrew/Cellar/neovim/HEAD/share/nvim"
